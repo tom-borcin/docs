@@ -148,7 +148,7 @@ body:
         - OS:
         - Node:
         - npm:
-    render: markdown
+    render: Markdown
   validations:
     required: false
 - type: textarea
